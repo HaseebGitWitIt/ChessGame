@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ChessBoard()
+comment0.text=\r\n\ Constructor\ which\ initializes\ each\ position\ of\ the\ board\ to\ null\r\n
+comment1.params=location
+comment1.target=ChessPiece\ getPieceAt(ChessLocation)
+comment1.text=\r\n\ Method\ used\ to\ get\ piece\ at\ given\ location\r\n\r\n\ @param\ \ \ location\ \ \ \ Stores\ the\ location\ of\ where\ you\ want\ to\ get\ the\ piece\r\n\ @param\ \ \ row\ Stores\ the\ x-coordinate\ of\ the\ location\ of\ the\ piece\r\n\ @param\ \ \ col\ Stores\ the\ y-coordinate\ of\ the\ location\ of\ the\ piece\r\n\ @return\ \ Piece\ at\ location\r\n
+comment2.params=location
+comment2.target=boolean\ isPieceAt(ChessLocation)
+comment2.text=\r\n\ Boolean\ to\ check\ if\ piece\ is\ there\r\n\r\n\ @param\ \ \ location\ \ \ \ Stores\ the\ location\ of\ where\ you\ want\ to\ get\ the\ piece\r\n\ @param\ \ \ row\ Stores\ the\ x-coordinate\ of\ the\ location\ of\ the\ piece\r\n\ @param\ \ \ col\ Stores\ the\ y-coordinate\ of\ the\ location\ of\ the\ piece\r\n\ @return\ \ true\ if\ piece\ there\ and\ false\ if\ no\ piece\ there\r\n
+comment3.params=piece\ location
+comment3.target=void\ placePieceAt(ChessPiece,\ ChessLocation)
+comment3.text=\r\n\ Method\ used\ to\ place\ piece\ at\ given\ location\r\n\ \r\n\ @param\ \ \ piece\ \ \ Stores\ the\ piece\ you\ would\ like\ to\ store\ in\ the\ given\ location\r\n\ @param\ \ \ location\ \ \ \ Stores\ the\ location\ of\ where\ you\ want\ to\ place\ the\ piece\r\n\ @param\ \ \ row\ Stores\ the\ x-coordinate\ of\ where\ the\ user\ wants\ the\ piece\r\n\ @param\ \ \ col\ Stores\ the\ y-coordinate\ of\ where\ the\ user\ wants\ the\ piece\r\n
+comment4.params=location
+comment4.target=void\ removePiece(ChessLocation)
+comment4.text=\r\n\ Method\ used\ to\ remove\ piece\ at\ given\ location\r\n\ \r\n\ @param\ \ \ location\ \ \ \ Stores\ the\ location\ of\ the\ piece\ you\ want\ to\ move\r\n\ @param\ \ \ row\ Stores\ the\ x-coordinate\ of\ the\ location\ where\ the\ user\ wants\ to\ remove\ the\ piece\r\n\ @param\ \ \ col\ Stores\ the\ y-coordinate\ of\ the\ location\ where\ the\ user\ wants\ to\ remove\ the\ piece\r\n
+comment5.params=
+comment5.target=void\ makeBoard()
+comment5.text=\r\n\ Method\ used\ to\ create\ chess\ board\ with\ all\ the\ pieces\r\n\ \r\n
+numComments=6

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ChessGame()
+comment0.text=\r\n\ Constructor\ which\ creates\ pieces\ of\ chess,\ and\ places\ them\ on\ board\r\n
+comment1.params=
+comment1.target=ChessBoard\ returnBoard()
+comment1.text=\r\n\ Method\ used\ to\ return\ board\r\n\ \r\n\ @param\ \ \ board\ \ \ Stores\ the\ board\r\n\ @return\ \ board\r\n
+comment2.params=
+comment2.target=ChessPiece\ oreturnKing()
+comment2.text=\r\n\ Method\ used\ to\ return\ king\r\n\ \r\n\ @param\ \ \ king\ \ \ Stores\ the\ king\r\n\ @return\ \ oking\r\n
+comment3.params=
+comment3.target=ChessPiece\ treturnKing()
+comment3.text=\r\n\ Method\ used\ to\ return\ king\r\n\ \r\n\ @param\ \ \ king\ \ \ Stores\ the\ king\r\n\ @return\ \ tking\r\n
+numComments=4

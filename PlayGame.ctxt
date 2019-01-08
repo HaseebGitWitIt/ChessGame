@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ Main\ method\ which\ initializes\ necessary\ variables,\ parameters\ and\ classes.\r\n\ Takes\ user\ input\ and\ performs\ the\ according\ action\r\n\ \r\n\ @param\ \ \ reader\ \ Get\ user\ input\r\n\ @param\ \ \ userInput\ \ \ Store\ the\ user\ input\r\n\ @param\ \ \ sourceRow\ \ \ Store\ the\ x-coordinate\ of\ source\r\n\ @param\ \ \ sourceCol\ \ \ Store\ the\ y-coordinate\ of\ source\r\n\ \r\n\ @param\ \ \ sourceRow\ \ \ Store\ the\ x-coordinate\ of\ destination\r\n\ @param\ \ \ sourceCol\ \ \ Store\ the\ y-coordinate\ of\ destination\r\n\ @param\ \ \ game\ \ \ \ Store\ ChessGame\ variable\r\n\ @param\ \ \ board\ \ \ Store\ ChessBoard\ variable\r\n\ @param\ \ \ sourceLocation\ \ Store\ location\ of\ piece\ you\ want\ to\ move\r\n\ @param\ \ \ destLocation\ \ \ \ Store\ location\ of\ where\ you\ want\ to\ move\ source\ piece\r\n\ @param\ \ \ sourcePiece\ Store\ the\ piece\ you\ are\ moving\r\n
+numComments=1

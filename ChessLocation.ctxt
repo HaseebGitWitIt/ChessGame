@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=givenRow\ givenCol
+comment0.target=ChessLocation(int,\ int)
+comment0.text=\r\n\ Constructor\ for\ row\ and\ col\ on\ ChessLocation\r\n
+comment1.params=
+comment1.target=int\ returnRow()
+comment1.text=\r\n\ Method\ used\ to\ get\ the\ row\r\n\ \r\n\ @param\ \ \ row\ \ \ \ Stores\ the\ x-coordinate\ of\ the\ piece\r\n\ @return\ \ row\ \ \r\n
+comment2.params=
+comment2.target=int\ returnCol()
+comment2.text=\r\n\ Method\ used\ to\ get\ the\ col\r\n\ \r\n\ @param\ \ \ col\ \ \ \ Stores\ the\ y-coordinate\ of\ the\ piece\r\n\ @return\ \ col\ \ \r\n
+comment3.params=obj
+comment3.target=boolean\ equals(java.lang.Object)
+comment3.text=\r\n\ Method\ used\ to\ check\ if\ source\ \=\ destination\r\n\ \r\n\ @param\ \ \ location\ \ \ \ Stores\ the\ destination\ of\ the\ test\ piece\r\n\ @return\ \ true\ if\ source\ \=\ destination,\ otherwise\ false\ \ \r\n
+numComments=4

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=player\ initialLocation\ game
+comment0.target=King(java.lang.String,\ ChessLocation,\ ChessGame)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ the\ specific\ piece\ class\r\n
+comment1.params=destination
+comment1.target=boolean\ moveTo(ChessLocation)
+comment1.text=\r\n\ Method\ used\ to\ check\ if\ move\ is\ legal,\ and\ then\ move\ by\ calling\ super\ class\ moveTo\r\n\ \r\n\ @param\ \ destination\ \ \ Stores\ desired\ location\ of\ the\ piece\ \r\n
+comment2.params=currentLocation
+comment2.target=void\ updateThreateningLocation(ChessLocation)
+comment2.text=\r\n\ Method\ used\ to\ update\ threatning\ locations\r\n\ \r\n\ @param\ \ \ newLocation\ \ \ \ Stores\ the\ new\ location\r\n
+comment3.params=destinationLocation
+comment3.target=ChessPiece\ locationInDanger(ChessLocation)
+comment3.text=\r\n\ Method\ used\ to\ store\ all\ the\ \ pieces\ threatening\ the\ king\r\n\ \r\n\ @return\ \ Array\ list\ of\ pieces\r\n
+comment4.params=
+comment4.target=boolean\ anyMovesLeft()
+comment4.text=\r\n\ Method\ used\ to\ check\ if\ the\ king\ can\ move\ anywhere\r\n\ \r\n\ @return\ \ True\ if\ king\ can\ move\ somewhere,\ false\ otherwise\ \r\n
+comment5.params=
+comment5.target=ChessPiece\ check()
+comment5.text=\r\n\ Method\ used\ to\ return\ list\ of\ pieces\ endangering\ king\r\n\ \r\n\ @return\ \ Array\ of\ endangering\ pieces\r\n
+numComments=6
